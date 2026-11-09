@@ -123,4 +123,4 @@ Built for and deployed to the client. Source code is available for review under 
 ## Credits
 
 - **Dominic** ([dominicOT](https://github.com/dominicOT)): architecture, the Management Hub (POS, inventory, orders, reports, auth and access control), the shared database schema, and storefront features including the product feed.
-- **Bella**: built the storefront, from the first commit through the shop, product pages, cart, checkout and orders.
+- **Bella** ([Bellaadamasesay] (https://github.com/Bellaadamasesay/)): built the storefront, from the first commit through the shop, product pages, cart, checkout and orders.
